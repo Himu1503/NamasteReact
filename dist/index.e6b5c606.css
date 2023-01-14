@@ -1,0 +1,20 @@
+.nav-bar {
+  border: 10px;
+  padding: 10px;
+  display: flex;
+}
+
+.nav-bar > ul {
+  padding: 10px;
+  list-style-type: none;
+}
+
+.nav-bar > ul > li {
+  float: right;
+}
+
+.nav-bar > img {
+  width: 150px;
+}
+
+/*# sourceMappingURL=index.e6b5c606.css.map */
