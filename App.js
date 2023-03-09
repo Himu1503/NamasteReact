@@ -1,12 +1,6 @@
  import React  from "react";
  import  ReactDOM from "react-dom/client";
 
-
-
-
-
-
-
 const Title = () =>{
     return (
         <div className="nav-bar">
